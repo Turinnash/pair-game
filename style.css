@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+}
+.card {
+    height: 170px;
+    max-width: 120px;
+    padding: 0;
+    background-color: transparent;
+    border: none;
+}
+
+.card__back {
+   
+}
+
+.card__front {
+    display: none;
+}
+
+.card__back img {
+    max-width: 100%;
+}
